@@ -39,4 +39,4 @@ Open index.html in your browser.
 
 🔗 Live Demo
 
-Click here to view live (Update after hosting)
+Click here to view live https://akarv742006.github.io/Akash-Bootstrap-Blog/
